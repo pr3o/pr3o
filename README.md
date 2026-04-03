@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Leonardo Preo
 
-🎓 Passionate about **computer science** and **software development**
-🎮 Huge **video game** fan — currently building my own game with **Unreal Engine**
-🔒 Interested in **cybersecurity**
+- 🎓 Passionate about **computer science** and **software development**
+- 🎮 Huge **video game** fan — currently building my own game with **Unreal Engine**
+- 🔒 Interested in **cybersecurity**
 
 ---
 
